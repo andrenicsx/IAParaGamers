@@ -1,4 +1,3 @@
-// AIzaSyDXsR8-k_riY32efuqFDlx-ImTVj86QtWY CHAVE API
 
 const apiKeyInput = document.getElementById("apiKey")
 const gameSelect = document.getElementById("gameSelect")
